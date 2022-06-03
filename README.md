@@ -15,6 +15,6 @@
 
 ## How do this work
 
-deploys websites using heroku
-uses s3 bucket to create vm's
+deploys websites using aws and
+uses aws infastructure  to create vm's
 uses pulumi api to interact with heroku and aws
