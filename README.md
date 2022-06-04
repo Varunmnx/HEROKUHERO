@@ -12,6 +12,11 @@
 - configure aws using `configure aws` command
 - create new pulumi project using `pulumi new`
 - install flask using `pip install flask requests` 
+- set up a ssh key using `ssh-keygen -m PEM`
+-  `cd Users/(yourusername)/.ssh`
+- if id_rsa donot have .pem extension rename it
+- cd to your project folder
+
 
 ## How do this work
 
